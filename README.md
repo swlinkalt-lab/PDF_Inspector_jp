@@ -161,7 +161,7 @@ PDF Inspector Businessは、
 
 ## 💳 ご購入について
 
-- 参考価格：**39ドル(約6,000円)**（Stripe決済にて安全に購入可能）
+- 参考価格：**39ドル**（Stripe決済にて安全に購入可能）
 - ご購入は以下のリンクから行えます：
 [購入ページ / Stripe Payment]→(https://buy.stripe.com/00waEXckW8a665qba87EQ02)
 
