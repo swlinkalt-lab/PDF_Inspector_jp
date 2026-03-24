@@ -45,7 +45,7 @@
 - 登録不要
 
 👇 ダウンロードはこちら  
-👉（ここに無料版リンク）
+https://github.com/swlinkalt-lab/PDF_Inspector_jp/releases/tag/free-v1.0
 
 ---
 
