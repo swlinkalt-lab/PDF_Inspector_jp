@@ -60,7 +60,7 @@ https://github.com/swlinkalt-lab/PDF_Inspector_jp/releases/tag/free-v1.0
 - 実行ログ
 
 👇 購入はこちら  
-リンクを準備中です。購入希望の方は問い合わせのメールアドレスにお願い申し上げます。
+https://thaissoftware.gumroad.com/l/pdf_inspector
 
 ---
 
